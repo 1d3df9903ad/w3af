@@ -3,6 +3,8 @@
 import getopt, sys, os
 import gettext
  
+print '1d3df9903ad'
+
 # First of all, we need to change the working directory to the directory of w3af.
 currentDir = os.getcwd()
 scriptDir = os.path.dirname(sys.argv[0]) or '.'
